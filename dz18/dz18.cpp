@@ -32,5 +32,4 @@ int main()
 	}
 
 	cout << "Total number of employees over 60 years of age: " << count << "\n";
-
 }
